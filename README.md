@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fabian1208
 - 👀 I’m interested in linux and open source 
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning cybersecurity
 - 📫 How to reach me: fabianogentili@protonmail.com
 
 <!---
